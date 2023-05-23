@@ -1,4 +1,4 @@
 function string() {
   return `This is a function`;
 }
-module.exports = string();
+module.exports = string;
